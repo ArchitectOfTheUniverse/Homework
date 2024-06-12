@@ -1,1 +1,1 @@
-print('Keep calm and carry on')
+print('Keep calm and carry')
